@@ -1,0 +1,19 @@
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+.navbar{
+   
+    padding-left: 60px;
+    img{
+        width: 64px;
+        height: 64px;
+        padding: 10px;
+    }
+    .brand-logo{
+        font-size: 26px;
+    }
+    background-color: #171c33;
+}
